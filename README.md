@@ -1,4 +1,4 @@
-# Zip Release [![License](https://img.shields.io/github/license/step-security/zip-release)](https://github.com/step-security/zip-release/blob/master/LICENSE)
+# Zip Release [![License](https://img.shields.io/github/license/step-security/zip-release)](https://github.com/step-security/zip-release/blob/main/LICENSE)
 GitHub action that can be used to create release archive using zip or tar.
 
 It works on all platforms: **Linux**, **MacOS** and **Windows**.
