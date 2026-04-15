@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 # Zip Release [![License](https://img.shields.io/github/license/step-security/zip-release)](https://github.com/step-security/zip-release/blob/main/LICENSE)
 GitHub action that can be used to create release archive using zip or tar.
 
