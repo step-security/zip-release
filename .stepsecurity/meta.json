@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/zip-release",
+   "upstream_full_repo_name": "thedoctor0/zip-release",
+   "action_type": "composite",
+   "last_release": {
+     "tag_name": "v0.7.7",
+     "created_at": "2026-04-15T06:11:16Z",
+     "published_at": "2026-04-17T13:17:15Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
